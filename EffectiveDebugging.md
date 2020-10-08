@@ -47,9 +47,8 @@
 **理解：**
 
 典型的事务追踪系统（issue-tracking system）如Git，Git相应的事务追踪就是Commit。每次Commit将信息写详细，这有利于追溯。
-  
 
-
+###### 
 
 ### 第2条：在网上确切地查询你所遇到的问题，以寻求解决问题的灵感
 
@@ -68,7 +67,6 @@
 （2）上searchcode.com等查询API正确的使用方法；
 
 （3）Stack Overflow提问、github提issue，或发邮件。
-
 
 
 
