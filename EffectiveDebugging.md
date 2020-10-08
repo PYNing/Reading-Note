@@ -47,7 +47,7 @@
 **理解：**
 
 典型的事务追踪系统（issue-tracking system）如Git，Git相应的事务追踪就是Commit。每次Commit将信息写详细，这有利于追溯。
-
+  
 
 
 
